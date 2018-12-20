@@ -19,3 +19,17 @@
  .nav > li > a > img {
   max-width: 5%;
 }
+.well p img {
+ max-width:10%;
+}
+.user-pic-md {
+ max-width:50%;
+}
+.container {
+ padding: 20px;
+  border-radius: 5px;
+  
+  -webkit-box-shadow: rgba(0, 0, 0, 0.3) 0 1px 3px;
+  -moz-box-shadow: rgba(0,0,0,0.3) 0 1px 3px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0 1px 3px;
+}
